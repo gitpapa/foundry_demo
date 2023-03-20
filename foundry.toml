@@ -7,5 +7,6 @@ solc = "0.8.18"
 
 [rpc_endpoints]
 local = "http://127.0.0.1:8545"
+goerli = "${GOERLI_RPC_URL}"
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config

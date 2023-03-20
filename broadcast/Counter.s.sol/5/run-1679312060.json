@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "hash": "0x7c64d1436115c512baa397ed7ba71e1cd483c0c88f240ef9e43f46e193451495",
+      "transactionType": "CREATE",
+      "contractName": "Counter",
+      "contractAddress": "0xDd4d3d9446cCD7B4532fB828a1143a3a011D497D",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.api.onfinality.io/public",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xf5718c13076e0520ab3a8368d4267a0e75afd672",
+        "gas": "0x25fd3",
+        "value": "0x0",
+        "data": "0x608060405234801561001057600080fd5b50610133806100206000396000f3fe6080604052348015600f57600080fd5b506004361060465760003560e01c806306661abd14604b5780633fb5c1cb14605357806361bc221a146063578063d09de08a14607d575b600080fd5b60516083565b005b6051605e36600460a3565b600055565b606b60005481565b60405190815260200160405180910390f35b6051608f565b600054605e90600160d1565b600080549080609c8360e7565b9190505550565b60006020828403121560b457600080fd5b5035919050565b634e487b7160e01b600052601160045260246000fd5b8082018082111560e15760e160bb565b92915050565b60006001820160f65760f660bb565b506001019056fea2646970667358221220a920cdadfabdadfed310d0a610dd7aa49cea4066dea167c48b0c0ac6a9337a2564736f6c63430008120033",
+        "nonce": "0x0",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x7c64d1436115c512baa397ed7ba71e1cd483c0c88f240ef9e43f46e193451495"
+  ],
+  "path": "D:/code/blockchain/foundry_demo/broadcast\\Counter.s.sol\\5\\run-latest.json",
+  "returns": {},
+  "timestamp": 1679312060,
+  "chain": 5,
+  "multi": false,
+  "commit": "29686e1"
+}
